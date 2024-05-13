@@ -17,7 +17,7 @@
 		"enmap": "^5.8.5",
 		"figlet": "^1.5.0",
 		"godembed": "^1.0.4",
-		"imgflip": "^3.0.0",
+		"imgflip": "^4.0.0",
 		"jimp": "^0.22.10",
 		"node-fetch": "^3.3.2"
 	},
